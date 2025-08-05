@@ -33,11 +33,6 @@ h1 {
 .switch-container {
     display: inline-block;
     cursor: pointer;
-    transition: transform 0.2s;
-}
-
-.switch-container:active {
-    transform: scale(0.95);
 }
 
 #switch {
